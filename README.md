@@ -11,7 +11,7 @@
 
 ## Habilidades
 
-- **Linguagens de Programação**: Python, Java, C++
-- **Tecnologias Web**: HTML, CSS, React, Node.js, Flask, Django
+- **Linguagens de Programação**: C#, Java, 
+- **Tecnologias Web**: HTML, CSS, React, Node.js, 
 - **Banco de Dados**: MySQL
 - **Ferramentas**: Git, GitHub, Docker, Linux
